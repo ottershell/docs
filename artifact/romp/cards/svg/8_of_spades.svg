@@ -1,8 +1,4 @@
-
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-
-<!-- http://code.google.com/p/vector-playing-cards/ -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -21,10 +17,15 @@
    sodipodi:docname="8_of_spades.svg"
    inkscape:export-filename="/home/byron/art/cards/final/pngs/8_of_spades.png"
    inkscape:export-xdpi="215.44792"
-   inkscape:export-ydpi="215.44792"><metadata
-   id="metadata43"><rdf:rdf><cc:work
-       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/stillimage" /><dc:title></dc:title></cc:work></rdf:rdf></metadata><defs
+   inkscape:export-ydpi="215.44792">
+<metadata
+   id="metadata43">
+	<rdf:rdf>
+		<cc:work
+       rdf:about="">
+			<dc:format>image/svg+xml</dc:format>
+			<dc:type  rdf:resource="http://purl.org/dc/dcmitype/stillimage" />
+<dc:title></dc:title></cc:work></rdf:rdf></metadata><defs
    id="defs41" /><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
